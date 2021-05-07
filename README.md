@@ -15,6 +15,7 @@ The data were used to assess the effectiveness of an Non-Line-of-Sight (NLOS) de
  
 The dataset is to be cited as follows:
 
+`see current version of README file or go to the Zenodo website`
 
 
 When using the data, please consider also citing the original paper, for which it was collected:
